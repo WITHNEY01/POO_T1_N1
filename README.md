@@ -6,7 +6,7 @@ Trabalho 1 de POO / Resolvidas
 | `01`  | Faça um programa que receba quatro numeros inteiros, calcule e mostre a soma desse numeros.
 | `12`  | Faça um programa que receba dois numeros maiores que zero, calcule e mostre um elevado ao outro.
 | `14`  | Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre: a idade desas pessoa; quantos anos essa pessoa terá em 2005.
-| `16`  | 
+| `16`  | Faça um programa que receba o número de horas trabalhadas e o valor do salário mínimo. Calcule e mostre o salário a receber seguindo as regras: a hora trabalhada vale a metade do salário mínimo; o salário bruto equivale ao número de horas trabalhadas multiplicadas pelo valor da hora trabalhada; o imposto equivale a 3% do salário bruto; o salário a receber equivale ao salário bruto menos o impodto.
 | `18`  | 
 | `19`  | 
 | `20`  | Faça um programa que receba a medida do ângulo formado por uma escada apoiada no chão e encostada na parede e a altura da parede onde está a ponta da escada. Calcule e mostre a medida desta escada.
