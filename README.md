@@ -12,4 +12,4 @@ Trabalho 1 de POO / Resolvidas
 | `20`  |
 | `22`  |
 | `24`  | 
-| `06`  |
+| `06`  | Faça um programa que receba o salário-base de um funcionário, calcule e mostre o salário a receber, sabendo-se que esse funcionário tem gratificação de 5% sobre o salário-base e paga 7% de imposto sobre o salário-base.
