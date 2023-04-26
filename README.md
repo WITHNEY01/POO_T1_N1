@@ -7,8 +7,8 @@ Trabalho 1 de POO / Resolvidas
 | `12`  | Faça um programa que receba dois numeros maiores que zero, calcule e mostre um elevado ao outro.
 | `14`  | Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre: a idade desas pessoa; quantos anos essa pessoa terá em 2005.
 | `16`  | Faça um programa que receba o número de horas trabalhadas e o valor do salário mínimo. Calcule e mostre o salário a receber seguindo as regras: a hora trabalhada vale a metade do salário mínimo; o salário bruto equivale ao número de horas trabalhadas multiplicadas pelo valor da hora trabalhada; o imposto equivale a 3% do salário bruto; o salário a receber equivale ao salário bruto menos o impodto.
-| `18`  | 
-| `19`  | 
+| `18`  | Pedro comprou um saco de ração com peso em quilos. Pedro possui dois gatos para os quais fornece a quantidade dde ração em gramas. Faça um programa que receba o peso do saco de ração e a quantidade de ração fornecida para cada gato. Calcule e mostre quanto restará de ração no saco após cinco dias.
+| `19`  | Cada degrau de uma escada tem X de altura. Faça um programa que receba essa altura e a altura que o usuário deseja alcançar subindo a escada. Calcule e mostre quantos degraus o usuário deverá subir para atingir seu objetivo, sem se preocupar com a altura do usuário.
 | `20`  | Faça um programa que receba a medida do ângulo formado por uma escada apoiada no chão e encostada na parede e a altura da parede onde está a ponta da escada. Calcule e mostre a medida desta escada.
 | `22`  | Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência. Calcule e mostre: o valor em reais de cada quilowatt; o valor em reais a ser pago por essa residência; o valor em reais a ser pagocom desconto de 15%.
 | `24`  | Faça um programa que receba uma hora formada por hora e minuto, calcule e mostre a hora digitada apenas em minuto.
