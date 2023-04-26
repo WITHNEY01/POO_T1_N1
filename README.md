@@ -11,5 +11,5 @@ Trabalho 1 de POO / Resolvidas
 | `19`  | 
 | `20`  | Faça um programa que receba a medida do ângulo formado por uma escada apoiada no chão e encostada na parede e a altura da parede onde está a ponta da escada. Calcule e mostre a medida desta escada.
 | `22`  | Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência. Calcule e mostre: o valor em reais de cada quilowatt; o valor em reais a ser pago por essa residência; o valor em reais a ser pagocom desconto de 15%.
-| `24`  | Faça um programa que receba uma hora formada por hora e minuto, calcule e mostreva hora digitada apenas em minuto.
+| `24`  | Faça um programa que receba uma hora formada por hora e minuto, calcule e mostre a hora digitada apenas em minuto.
 | `06`  | Faça um programa que receba o salário-base de um funcionário, calcule e mostre o salário a receber, sabendo-se que esse funcionário tem gratificação de 5% sobre o salário-base e paga 7% de imposto sobre o salário-base.
